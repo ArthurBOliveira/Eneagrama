@@ -1,2 +1,2 @@
 # Eneagrama
-Enneagram to help on criative proccess.
+Enneagram to help on criative process.
